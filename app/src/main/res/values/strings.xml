@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">Start Now</string>
+    <string name="slide_1_title">Alright! Just Here!</string>
+    <string name="slide_1_desc">The easiest way to balance your social Life and Work Life!</string>
+    <string name="slide_2_title">Explore 100+ NGOs....</string>
+    <string name="slide_2_desc">Join Varoius NGOs and help society to make a better Place!</string>
+    <string name="slide_3_title">Explore Events!</string>
+    <string name="slide_3_desc">Because HELP is a four-legged word</string>
+    <string name="home_title">Welcome to NgoCollab </string>
+    <string name="home_desc">Have Fun</string>
+
+</resources>
